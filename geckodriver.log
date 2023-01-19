@@ -1,0 +1,252 @@
+1673980697432	geckodriver	INFO	Listening on 127.0.0.1:57758
+1673980700025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileI5upRC"
+1673980700525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673980700532	Marionette	INFO	Listening on port 57767
+Read port: 57767
+WebDriver BiDi listening on ws://127.0.0.1:57759
+1673980700731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileI5upRC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57759/devtools/browser/3e13b29a-1f2b-42ff-9fa9-4f5bbe91e042
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaXfcQ1N/W3lIdCkmegE/bBNEY/A55PAo, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+JavaScript error: https://epfweb.safra.com.br/Script/Login/js?v=nTOcbsTHFYg32Jp0D8e3zYCWHPWVXTVZorWUwMYwpWc1, line 850: ReferenceError: showDialogFlexOk is not defined
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaa1cQ1N/W3lIdCkmegE/Y3YhZ/FVLbis, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+1673980801205	Marionette	INFO	Stopped listening on port 57767
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673980810625	geckodriver	INFO	Listening on 127.0.0.1:57830
+1673980813651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofile2204CF"
+1673980814083	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673980814088	Marionette	INFO	Listening on port 57841
+Read port: 57841
+WebDriver BiDi listening on ws://127.0.0.1:57831
+1673980814275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofile2204CF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57831/devtools/browser/37752261-3d72-4265-94a9-19fa0d888bc1
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaXfcQ1N/W3lIdCkmegE/bBNEY/A55PAo, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+JavaScript error: https://epfweb.safra.com.br/Script/Login/js?v=nTOcbsTHFYg32Jp0D8e3zYCWHPWVXTVZorWUwMYwpWc1, line 850: ReferenceError: showDialogFlexOk is not defined
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaa1cQ1N/W3lIdCkmegE/Y3YhZ/FVLbis, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+1673980900328	Marionette	INFO	Stopped listening on port 57841
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1673980901300	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.jsm:572
+1673980908255	geckodriver	INFO	Listening on 127.0.0.1:57961
+1673980911058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileNf0yCq"
+1673980911472	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673980911477	Marionette	INFO	Listening on port 57972
+Read port: 57972
+WebDriver BiDi listening on ws://127.0.0.1:57962
+1673980911749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileNf0yCq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57962/devtools/browser/be76c3a4-3746-4b86-a2e0-58b062d3cded
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaXfcQ1N/W3lIdCkmegE/bBNEY/A55PAo, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+JavaScript error: https://epfweb.safra.com.br/Script/Login/js?v=nTOcbsTHFYg32Jp0D8e3zYCWHPWVXTVZorWUwMYwpWc1, line 850: ReferenceError: showDialogFlexOk is not defined
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaa1cQ1N/W3lIdCkmegE/Y3YhZ/FVLbis, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483656/layout46, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:2147483656"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673981342257	Marionette	INFO	Stopped listening on port 57972
+Dynamically enable window occlusion 1
+ow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileV4crdi"
+1673981219649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673981219655	Marionette	INFO	Listening on port 58119
+Read port: 58119
+WebDriver BiDi listening on ws://127.0.0.1:58112
+1673981219856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileV4crdi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58112/devtools/browser/b4e89cdf-21b1-447c-bf69-befe6404b27c
+1673981224403	Marionette	INFO	Stopped listening on port 58119
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1673981224446	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673981346832	geckodriver	INFO	Listening on 127.0.0.1:58206
+1673981349924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofile5qmPMz"
+1673981350359	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673981350365	Marionette	INFO	Listening on port 58216
+Read port: 58216
+WebDriver BiDi listening on ws://127.0.0.1:58207
+1673981350549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofile5qmPMz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58207/devtools/browser/31fcc95d-e0a1-4f0a-a238-8ee8277f1f59
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaXfcQ1N/W3lIdCkmegE/bBNEY/A55PAo, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+JavaScript error: https://epfweb.safra.com.br/Script/Login/js?v=nTOcbsTHFYg32Jp0D8e3zYCWHPWVXTVZorWUwMYwpWc1, line 850: ReferenceError: showDialogFlexOk is not defined
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaa1cQ1N/W3lIdCkmegE/Y3YhZ/FVLbis, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+1673981459818	Marionette	INFO	Stopped listening on port 58216
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1673981459919	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.jsm:572
+1673981470012	geckodriver	INFO	Listening on 127.0.0.1:58293
+1673981473069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileke3xCK"
+1673981473480	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673981473485	Marionette	INFO	Listening on port 58304
+Read port: 58304
+WebDriver BiDi listening on ws://127.0.0.1:58294
+1673981473671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofileke3xCK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58294/devtools/browser/11bec776-2f65-4e00-88f2-f247c7e8d5c4
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaXfcQ1N/W3lIdCkmegE/bBNEY/A55PAo, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+JavaScript error: https://epfweb.safra.com.br/Script/Login/js?v=nTOcbsTHFYg32Jp0D8e3zYCWHPWVXTVZorWUwMYwpWc1, line 850: ReferenceError: showDialogFlexOk is not defined
+JavaScript warning: https://epfweb.safra.com.br/53NZHvdd4D/4Xvgz01R/ir/9wzaa1cQ1N/W3lIdCkmegE/Y3YhZ/FVLbis, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+1673981768255	Marionette	INFO	Stopped listening on port 58304
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674050578437	geckodriver	INFO	Listening on 127.0.0.1:50152
+1674050581512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofilev7sIM4"
+1674050582079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674050582084	Marionette	INFO	Listening on port 50164
+Read port: 50164
+WebDriver BiDi listening on ws://127.0.0.1:50153
+1674050582260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GEILSO~1.MAC\\AppData\\Local\\Temp\\rust_mozprofilev7sIM4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50153/devtools/browser/a3af5d53-e97f-489b-a704-64a8ad333d30
+JavaScript warning: https://epfweb.safra.com.br/5YoOJobcanzlY6lcDtQan1VI3mA/c3YVrGmrwE/bgcJeAMB/KwYZWxRd/KTE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+JavaScript error: https://epfweb.safra.com.br/Script/Login/js?v=nTOcbsTHFYg32Jp0D8e3zYCWHPWVXTVZorWUwMYwpWc1, line 850: ReferenceError: showDialogFlexOk is not defined
+JavaScript warning: https://epfweb.safra.com.br/5YoOJobcanzlY6lcDtQan1VI3mA/c3YVhOmrwE/bgcJeAMB/TntWOGRz/ZD0, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://epfweb.safra.com.br."
+1674050840203	Marionette	INFO	Stopped listening on port 50164
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
